@@ -4,6 +4,10 @@ title = 'Anglodox'
 
 theme = 'dario'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   # author = 'Edwin'
   description = "A merry and serious blog about Orthodox Christianity in the English tongue."
