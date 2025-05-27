@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Anglodox'
+
+theme = 'dario'
+
+[params]
+  # author = 'Edwin'
+  description = "A merry and serious blog about Orthodox Christianity in the English tongue."
+
+  [params.homeInfoParams]
+    Title = "Welcome"
+    Content  = "Hello there, traveller. Welcome to **Anglodox**, a merry and serious blog seeking to advance the (Eastern Orthodox) Christianisation of the Anglophones and their tongue. Though the author wishes to remain anonymous, let it be known that the blog is dedicated to Saint Edwin the Martyr-King of Britain, who converted from paganism to the worship of the True God in 627 and was killed in battle by pagan armies in 633.    *Saint Edwin, please pray to God for us.*"
+    Description = "A merry and serious blog about Orthodox Christinianity in the English tongue."
